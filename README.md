@@ -1,9 +1,12 @@
 # StudyLib Downloader Script
 
+Thanks to rh45-one and his original good work which saved me a lot of time, time to give back what I took ;)
+
 A tool that helps you download documents from StudyLib websites for educational purposes only. Available as Tampermonkey script. Please respect copyright laws and the terms of service of StudyLib.
 
 ## ✅ Update
 The downloader is using now a direct PDF.js implementation. In the new version, the PDF source is stored directly in a data-src attribute of a div with the ID viewer. To address it, we need to use data-src.
+In this fork I deleted all unnecesary files for this script purpose, also removed Tampermonkey autoinstall function only because I'm not good enough to make it work and the time was also an issue.
 
 ## Tampermonkey Script 
 
@@ -44,5 +47,3 @@ This automation saves time and works at the moment on pages where the document v
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC-SA 4.0) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
-
-Thanks to rh45-one and his original good work which saved me a lot of time, time to give back what I took ;) 
