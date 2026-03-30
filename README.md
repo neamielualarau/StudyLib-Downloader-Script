@@ -23,14 +23,14 @@ In this fork I deleted all unnecesary files for this script purpose, also remove
 ### Usage
 
 1. Navigate to any StudyLib document and open it. It will open in an embedded pdf-viewer.
-2. Ignore the green "Download Document" button that will otherwise send you in an exchange page (upload a new doc to download)
-3. Instead, look for the new RED "Download" button, and click it. 
-4. A new tab will open with the standard document viewer
+2. Ignore the yellow "Download" button that will otherwise send you in an exchange page (upload a new doc to download)
+3. Instead, look for the new RED "Download PDF" button, and click it 
+4. A new tab will open with the standard document viewer (browser embedded)
 5. In this standard document viewer, click the "Download Document" arrow and pdf is yours.
 
 ### Regional Differences
 
-Tested only on StudyLib.net, but should work elsewhere if the same new mechanics are implemented.
+Tested only on StudyLib.net, but should also work elsewhere if the same new mechanisms are implemented.
 
 ### What the Tools Automate
 
